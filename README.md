@@ -1,3 +1,3 @@
 # interopalliance.org
 
-interopalliance.org website
+interopalliance.org organization website
