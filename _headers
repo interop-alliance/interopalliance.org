@@ -1,0 +1,8 @@
+/.well-known/*
+  Access-Control-Allow-Origin: *
+
+/favicon.ico
+  Access-Control-Allow-Origin: *
+
+/assets/logo.png
+  Access-Control-Allow-Origin: *
